@@ -1,0 +1,13 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": { "build":"npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
